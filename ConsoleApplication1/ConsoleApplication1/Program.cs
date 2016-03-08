@@ -12,5 +12,10 @@ namespace ConsoleApplication1
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello World 1");
         }
+        
+        public static void test()
+        {
+            Console.WriteLine("bwhahahahaah");
+        }
     }
 }
