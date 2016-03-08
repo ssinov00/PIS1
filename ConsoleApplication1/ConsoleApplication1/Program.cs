@@ -1,4 +1,4 @@
-﻿using System;
+a﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.WriteLine("Promina!");
+            Console.WriteLine("Hello World 1");
         }
     }
 }
